@@ -1,7 +1,7 @@
 import csv
 import itertools
 
-
+#sdfsfsd123
 with open('C:\Users\Loo\Desktop\SMART\LI-7000.txt','r') as in_file:
         stripped = (line.strip() for line in in_file)
         lines = (line for line in stripped if line)
